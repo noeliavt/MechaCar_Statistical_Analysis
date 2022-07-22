@@ -2,7 +2,7 @@
 
 ## 1. Linear Regression to Predict MPG
 <p align="center">
-  <img  src="Resources/PyberResults_Table.png">
+  <img  src="Resources/LinearRegresion1.png">
 </p>
 
 
