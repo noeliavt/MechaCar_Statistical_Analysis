@@ -40,7 +40,7 @@ According to the results, the multi linear model is:
 ### Summary of the t-test results across all manufacturing lots
 
 <p align="center">
-  <img  src="Resources/Ttest_suspCoil">
+  <img  src="Resources/Ttest_suspCoil.png">
 </p>
 
 From here we can see the true mean of the sample is 1498.78. With a p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evidence to support rejecting the null hypothesis. That is to say, the mean of all three of these manufacturing lots is statistically similar to the presumed population mean of 1500.
@@ -48,7 +48,7 @@ From here we can see the true mean of the sample is 1498.78. With a p-Value of 0
 ### Summary of the t-test results acrossindividual lots:
 
 <p align="center">
-  <img  src="Resources/Lot1Lot2Lot3">
+  <img  src="Resources/Lot1Lot2Lot3.png">
 </p>
 
 1. Lot 1 sample actually has the true sample mean of 1500, again as we saw in the summary statistics above. With a p-Value of 1, clearly we cannot reject  the null hypothesis that there is no statistical difference between the observed sample mean and the presumed population mean (1500).
