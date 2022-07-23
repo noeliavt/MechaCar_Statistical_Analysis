@@ -11,10 +11,8 @@
 
 According to the results, the multi linear model is:
 
-<div ss-container>One</div>
-<div ss-container>
-  <span>Two</span>
-</div>
+`rgb(mpg = 6.27 * vehicle_length + 1.25e-3 * vehicle_weigth + 6.88e-2 * spoiler_angle -3.41 * AWD + 3.55 * ground_clearance - 1.04e+2)`
+mpg = 6.27 * vehicle_length + 1.25e-3 * vehicle_weigth + 6.88e-2 * spoiler_angle -3.41 * AWD + 3.55 * ground_clearance - 1.04e+2
 
 So the slope of the linear model is not considered to be zero.
 
